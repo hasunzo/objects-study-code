@@ -1,7 +1,5 @@
 package chapter3;
 
-import chapter2.Money;
-
 import java.time.Duration;
 import java.util.List;
 
